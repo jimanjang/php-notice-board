@@ -1,6 +1,6 @@
 # php-notice-board
 -섹션 1. 오리엔테이션<br>
-[x]APMSETUP 설치, PHP프로그래밍, 웹프로그래밍<br>
+[x]APMSETUP 설치, PHP프로그래밍, 웹프로그래밍<br><br>
 -섹션 2. 홈페이지 구상 및 인덱스 main 페이지 만들기, PHP 쿼리 배우기<br>
 [x]2강 1편<br>
 [x]2강 2편<br><br>
