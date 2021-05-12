@@ -6,7 +6,7 @@
 [v]2강 2편<br><br>
 -섹션 3. 회원가입 페이지 만들기<br>
 [v]회원가입 페이지 만들기<br>
-[x]Setcookie, md5 암호화<br><br>
+[v]Setcookie, md5 암호화<br><br>
 -섹션 4. CSS(Stylesheet), 게시판 만들기<br>
 [x]CSS 스타일 적용하기, 게시판 시작<br><br>
 -섹션 5. 게시판 만들기<br>
